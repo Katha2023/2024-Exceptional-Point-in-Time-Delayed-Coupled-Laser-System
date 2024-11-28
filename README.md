@@ -5,14 +5,14 @@ This project delves into the time evolution and spectral analysis of wavefunctio
 ## Features
 1. **Time Evolution Analysis**:
    - Numerical integration of Schrödinger-like equations using the Euler-Cromer method.
-   - Visualization of the probabilities $( |\psi_1(t)|^2 )$ and \( |\psi_2(t)|^2 \) over time.
+   - Visualization of the probabilities $( |\psi_1(t)|^2 )$ and $( |\psi_2(t)|^2 )$ over time.
 
 2. **Spectral Analysis**:
    - Application of FFT to investigate frequency domain characteristics.
    - Identification of peak frequencies to reveal dominant dynamics.
 
 3. **Hamiltonian Analysis**:
-   - Computation of eigenvalues and eigenvectors for different \( \gamma \).
+   - Computation of eigenvalues and eigenvectors for different $( \gamma )$.
    - Orthogonality checks to understand quantum coherence and dissipation effects.
 
 4. **Advanced Visualization**:
