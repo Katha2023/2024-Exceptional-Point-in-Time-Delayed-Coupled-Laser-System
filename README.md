@@ -1,6 +1,6 @@
 # Computational Exploration of Quantum Dynamics
 
-This project delves into the time evolution and spectral analysis of wavefunctions under varying dissipation rates (\( \gamma \)) in quantum systems. The primary objectives include solving coupled differential equations for \(\psi_1\) and \(\psi_2\) and exploring their behavior in both time and frequency domains.
+This project delves into the time evolution and spectral analysis of wavefunctions under varying dissipation rates (`γ`) in quantum systems. The primary objectives include solving coupled differential equations for `ψ₁` and `ψ₂` and exploring their behavior in both time and frequency domains.
 
 ## Features
 1. **Time Evolution Analysis**:
